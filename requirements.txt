@@ -3,7 +3,8 @@ numpy
 scikit-learn
 matplotlib
 seaborn
-streamlit
+streamlit==1.29.0
+altair==4.2.2
 imbalanced-learn
 xgboost
 joblib
